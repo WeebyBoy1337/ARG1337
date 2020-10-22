@@ -6,10 +6,10 @@ textInput.addEventListener('keyup', function (event) {
     if (event.key === 'Enter'){
         console.log(textInput.value)
     if (textInput.value == "nowaifunolifeu\n"){
-        alert("copy & paste the link ''")
+        alert("copy & paste the link 'http://weebyboy1337.tk/leet'")
     }
     if (textInput.value == "John.S\n"){
-        alert("copy & paste the link https://mfwhs6li.github.io/ARG/index.html")
+        alert("copy & paste the link https://mfwhs6li.tk")
     }
     if (textInput.value == "down there\n"){
         alert("No stupid -_-")
