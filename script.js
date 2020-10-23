@@ -9,7 +9,7 @@ textInput.addEventListener('keyup', function (event) {
         alert("copy & paste the link 'http://weebyboy1337.github.io/ARG1337/leet'")
     }
     if (textInput.value == "John.S\n"){
-        alert("copy & paste the link https://mfwhs6li.tk")
+        alert("copy & paste the link 'mfwhs6li.tk'")
     }
     if (textInput.value == "down there\n"){
         alert("No stupid -_-")
